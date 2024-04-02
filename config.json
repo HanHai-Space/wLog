@@ -1,6 +1,16 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"vLogs",
+    "subTitle":"I'll add to it.",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "displayTitle":"Lido",
+    "homeUrl":"http://blog.meekdai.com",
+    "email":"hanhai.spance@gmail.com",
+    "startSite":"04/01/2024",
+    "onePageListNum":12,
+    "singlePage":["about"],
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "dayTheme":"light",
+    "nightTheme":"dark_colorblind",
 }
