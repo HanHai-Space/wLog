@@ -1,7 +1,7 @@
 {
     "title":"vLogs",
     "subTitle":"I'll add to it.",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "avatarUrl":"https://avatars.githubusercontent.com/u/161998856?v=4",
     "GMEEK_VERSION":"last",
     "displayTitle":"Lido",
     "homeUrl":"http://blog.meekdai.com",
@@ -12,5 +12,5 @@
     "commentLabelColor":"#006b75",
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
     "dayTheme":"light",
-    "nightTheme":"dark_colorblind",
+    "nightTheme":"dark_colorblind"
 }
