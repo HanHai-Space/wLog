@@ -177,7 +177,7 @@ FDV = 代币总量 * 当前价格
 
 FDV 可以帮助投资者了解加密货币项目的潜在价值。如果 FDV 较高，则表明投资者对该项目的未来发展预期较高。
 
-[[详细解释](https://www.coingecko.com/learn/what-is-fully-diluted-valuation-fdv-in-crypto)](https://www.coingecko.com/learn/what-is-fully-diluted-valuation-fdv-in-crypto)
+[详细解释](https://www.coingecko.com/learn/what-is-fully-diluted-valuation-fdv-in-crypto)
 
 
 
@@ -214,7 +214,7 @@ ETF：全称**交易型开放式指数基金**，通常又被称为交易所交�
 
 ### :newspaper: 新闻
 
-+ [[SBF将被判刑25年](https://www.coindesk.com/policy/2024/03/29/sbf-is-going-to-prison-for-25-years/)](https://www.coindesk.com/policy/2024/03/29/sbf-is-going-to-prison-for-25-years/)
++ [SBF将被判刑25年](https://www.coindesk.com/policy/2024/03/29/sbf-is-going-to-prison-for-25-years/)
 
 
 
@@ -237,39 +237,39 @@ ETF：全称**交易型开放式指数基金**，通常又被称为交易所交�
 
 ### :scissors: 工具
 
-+ [[Pepeboost](https://docs.pepeboost.io/)](https://docs.pepeboost.io/) 基于telegram的一系列代币交易工具，主要是Solana和ETF
++ [Pepeboost](https://docs.pepeboost.io/) 基于telegram的一系列代币交易工具，主要是Solana和ETF
 
 + 看板
 
-  + [[CoinGecko 加密货币赛道(中文)](https://www.coingecko.com/zh/categories)](https://www.coingecko.com/zh/categories)
+  + [CoinGecko 加密货币赛道(中文)](https://www.coingecko.com/zh/categories)
 
     ![](https://onedrive.live.com/embed?resid=FB131618609B8AF0%211609&authkey=%21ADjZEAW86suBnDM&width=2743&height=1604)
 
-  + [[Altcoin Season Index 比特币与其他币的比值](https://www.blockchaincenter.net/en/altcoin-season-index/)](https://www.blockchaincenter.net/en/altcoin-season-index/)
+  + [Altcoin Season Index 比特币与其他币的比值](https://www.blockchaincenter.net/en/altcoin-season-index/)
 
     + 58%是最好的
 
     ![](https://onedrive.live.com/embed?resid=FB131618609B8AF0%211606&authkey=%21AJQAEI10LTmx_Ng&width=2808&height=1580)
 
-  + [[coinglass](https://www.coinglass.com/today)](https://www.coinglass.com/today)
+  + [coinglass](https://www.coinglass.com/today)
 
-    + [[比特币每日/月/年季的涨幅 ](https://www.coinglass.com/today)](https://www.coinglass.com/today)
+    + [比特币每日/月/年季的涨幅 ](https://www.coinglass.com/today)
 
        ![](https://onedrive.live.com/embed?resid=FB131618609B8AF0%211608&authkey=%21AHqwCu7cIyv-KVk&width=2812&height=1562)
 
-    + [[爆仓图](https://www.coinglass.com/zh/LiquidationData)](https://www.coinglass.com/zh/LiquidationData)
+    + [爆仓图](https://www.coinglass.com/zh/LiquidationData)
 
       ![](https://onedrive.live.com/embed?resid=FB131618609B8AF0%211605&authkey=%21AGoOfU5MYferlE0&width=2836&height=1494)
 
-  + [[Defillama](https://defillama.com/)](https://defillama.com/)
+  + [Defillama](https://defillama.com/)
 
     ![](https://onedrive.live.com/embed?resid=FB131618609B8AF0%211607&authkey=%21AIG9cEu9uV1X0ug&width=2814&height=1550)
 
-    + [[GasNow Gas费用实时监控](https://gasnow.io/)](https://gasnow.io/)
+    + [GasNow Gas费用实时监控](https://gasnow.io/)
 
       ![](https://onedrive.live.com/embed?resid=FB131618609B8AF0%211610&authkey=%21ALK62tW8tqSpuP8&width=2789&height=1456)
 
-    + [[Bitcoin ETF Flow](https://bitcoinetffundflow.com/)](https://bitcoinetffundflow.com/)
+    + [Bitcoin ETF Flow](https://bitcoinetffundflow.com/)
 
     ![](https://onedrive.live.com/embed?resid=FB131618609B8AF0%211611&authkey=%21ALXbR6zMHGayV9Y&width=2640&height=1146)
 
@@ -277,7 +277,7 @@ ETF：全称**交易型开放式指数基金**，通常又被称为交易所交�
 
 ###  :warning: 管见
 
-+ 通过[[Bitcoin Monthly returns(%)](https://www.coinglass.com/today)](https://www.coinglass.com/today)连涨8个月 -> 已经过热
++ 通过[Bitcoin Monthly returns(%)](https://www.coinglass.com/today)连涨8个月 -> 已经过热
 
 
 
@@ -330,18 +330,17 @@ ETF：全称**交易型开放式指数基金**，通常又被称为交易所交�
 
 ### 优质的B站合集
 
-+ [[奥达升_AWE](https://space.bilibili.com/475885433)](https://space.bilibili.com/475885433)
-
-  + [[工程事故动画分析](https://space.bilibili.com/475885433/channel/collectiondetail?sid=563176)](https://space.bilibili.com/475885433/channel/collectiondetail?sid=563176)
++ [奥达升_AWE](https://space.bilibili.com/475885433)
+  + [工程事故动画分析](https://space.bilibili.com/475885433/channel/collectiondetail?sid=563176)
 
   
 
-+ [[纪录片《开盘》持续更新中…那么“天道酬勤”到底是不是真的？](https://space.bilibili.com/403256041/channel/collectiondetail?sid=2371026)](https://space.bilibili.com/403256041/channel/collectiondetail?sid=2371026)
++ [纪录片《开盘》持续更新中…那么“天道酬勤”到底是不是真的？](https://space.bilibili.com/403256041/channel/collectiondetail?sid=2371026)
 
 
 
 ### 娱乐视频
 
-+ [[混沌武士](https://www.bilibili.com/video/BV1hx411c7bg)](https://www.bilibili.com/video/BV1hx411c7bg)【P1 ~ P8】
-+ [[【木鱼微剧场】《命运石之门》（上部）](https://www.bilibili.com/video/BV1Cx411m7pe)](https://www.bilibili.com/video/BV1Cx411m7pe)
-+ [[【木鱼微剧场】《命运石之门》（下部）](https://www.bilibili.com/video/BV1Qx411e71g)](https://www.bilibili.com/video/BV1Qx411e71g)
++ [混沌武士](https://www.bilibili.com/video/BV1hx411c7bg)【P1 ~ P8】
++ [【木鱼微剧场】《命运石之门》（上部）](https://www.bilibili.com/video/BV1Cx411m7pe)
++ [【木鱼微剧场】《命运石之门》（下部）](https://www.bilibili.com/video/BV1Qx411e71g)
