@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HanHai</title><link>https://hanhai-space.github.io/wLog</link><description>I'll add to it</description><copyright>HanHai</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://onedrive.live.com/embed?resid=FB131618609B8AF0%211666&amp;authkey=%21AI4kE5MRwSj8meA&amp;width=660</url><title>avatar</title><link>https://hanhai-space.github.io/wLog</link></image><lastBuildDate>Sun, 26 May 2024 07:10:08 +0000</lastBuildDate><managingEditor>HanHai</managingEditor><ttl>60</ttl><webMaster>HanHai</webMaster><item><title>#8 2024-05-04</title><link>https://hanhai-space.github.io/wLog/post/%238%202024-05-04.html</link><description># 开源&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HanHai</title><link>https://hanhai-space.github.io/wLog</link><description>I'll add to it</description><copyright>HanHai</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://onedrive.live.com/embed?resid=FB131618609B8AF0%211666&amp;authkey=%21AI4kE5MRwSj8meA&amp;width=660</url><title>avatar</title><link>https://hanhai-space.github.io/wLog</link></image><lastBuildDate>Tue, 28 May 2024 16:21:09 +0000</lastBuildDate><managingEditor>HanHai</managingEditor><ttl>60</ttl><webMaster>HanHai</webMaster><item><title>#8 2024-05-04</title><link>https://hanhai-space.github.io/wLog/post/%238%202024-05-04.html</link><description># 开源&#13;
 &#13;
 &gt; + [免费API public-apis](https://github.com/public-apis/public-apis)&#13;
 &#13;
@@ -199,7 +199,7 @@
 # 新闻&#13;
 &gt; + [MicroStrategy Unveils Plan for Bitcoin-Based Decentralized **Identity** Using Ordinals](https://www.coindesk.com/tech/2024/05/02/microstrategy-unveils-plan-for-bitcoin-based-decentralized-identity-using-ordinals/)&#13;
 &#13;
-MicroStrategy has already built one application using its service. "Orange For Outlook" integrates digital signatures into emails to enable recipients to verify the identity of the sende&#13;
+MicroStrategy has already built one application using its service. 'Orange For Outlook' integrates digital signatures into emails to enable recipients to verify the identity of the sende&#13;
 &#13;
 &#13;
 # 记录&#13;
