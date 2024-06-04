@@ -76,7 +76,7 @@
 
 # Windows定时关闭
 
-解释：创建一个任务(名称为ShutdownTask)，执行每天再晚上7点开始**强制**关机，期间会议1分钟缓冲时间，也就是19:01关机
+解释：创建一个任务(名称为ShutdownTask)，执行每天再晚上7点开始**强制**关机，期间会有1分钟缓冲时间（实际上是15秒左右）
 
 ```shell
 schtasks /Create /TN ShutdownTask /TR 'shutdown /s /f' /SC DAILY /ST 19:00 /F
@@ -164,7 +164,7 @@ schtasks /Delete /TN ShutdownTask
 
 # Windows定时关闭
 
-解释：创建一个任务(名称为ShutdownTask)，执行每天再晚上7点开始**强制**关机，期间会议1分钟缓冲时间，也就是19:01关机
+解释：创建一个任务(名称为ShutdownTask)，执行每天再晚上7点开始**强制**关机，期间会有1分钟缓冲时间（实际上是15秒左右）
 
 ```shell
 schtasks /Create /TN ShutdownTask /TR 'shutdown /s /f' /SC DAILY /ST 19:00 /F
@@ -300,7 +300,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </blockquote>
 <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d3a20a87a96dff6359b2352002751e1fca6074d4534243d27927cb0910a1867e/68747470733a2f2f6f6e6564726976652e6c6976652e636f6d2f656d6265643f72657369643d464231333136313836303942384146302532313137323426617574686b65793d253231414b5248717273436f71716f4979772677696474683d32383339266865696768743d31363236"><img src="https://camo.githubusercontent.com/d3a20a87a96dff6359b2352002751e1fca6074d4534243d27927cb0910a1867e/68747470733a2f2f6f6e6564726976652e6c6976652e636f6d2f656d6265643f72657369643d464231333136313836303942384146302532313137323426617574686b65793d253231414b5248717273436f71716f4979772677696474683d32383339266865696768743d31363236" alt="" data-canonical-src="https://onedrive.live.com/embed?resid=FB131618609B8AF0%211724&amp;authkey=%21AKRHqrsCoqqoIyw&amp;width=2839&amp;height=1626" style="max-width: 100%;"></a></p>
 <h1>Windows定时关闭</h1>
-<p>解释：创建一个任务(名称为ShutdownTask)，执行每天再晚上7点开始<strong>强制</strong>关机，期间会议1分钟缓冲时间，也就是19:01关机</p>
+<p>解释：创建一个任务(名称为ShutdownTask)，执行每天再晚上7点开始<strong>强制</strong>关机，期间会有1分钟缓冲时间（实际上是15秒左右）</p>
 <div class="highlight highlight-source-shell"><pre class="notranslate">schtasks /Create /TN ShutdownTask /TR <span class="pl-s"><span class="pl-pds">"</span>shutdown /s /f<span class="pl-pds">"</span></span> /SC DAILY /ST 19:00 /F</pre></div>
 <p>查看任务</p>
 <div class="highlight highlight-source-shell"><pre class="notranslate">schtasks /Query /TN ShutdownTask</pre></div>
