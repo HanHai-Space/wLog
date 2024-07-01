@@ -4,7 +4,7 @@
     <meta content="text/html; charset=utf-8" http-equiv="content-type" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link href="//cdn.staticfile.net/Primer/21.0.7/primer.css" rel="stylesheet" />
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
     <link rel="icon" href="https://onedrive.live.com/embed?resid=FB131618609B8AF0%211666&authkey=%21AI4kE5MRwSj8meA&width=660"><script>
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
@@ -252,8 +252,10 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </blockquote>
 <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f7eaad58f3a5df6f8b831608ead0c8f463fc5b87df49f7870ecf9e3ea4be35e6/68747470733a2f2f6f6e6564726976652e6c6976652e636f6d2f656d6265643f72657369643d464231333136313836303942384146302532313137313126617574686b65793d253231414e453058417257324566486c476f2677696474683d32383430266865696768743d31363236"><img src="https://camo.githubusercontent.com/f7eaad58f3a5df6f8b831608ead0c8f463fc5b87df49f7870ecf9e3ea4be35e6/68747470733a2f2f6f6e6564726976652e6c6976652e636f6d2f656d6265643f72657369643d464231333136313836303942384146302532313137313126617574686b65793d253231414e453058417257324566486c476f2677696474683d32383430266865696768743d31363236" alt="" data-canonical-src="https://onedrive.live.com/embed?resid=FB131618609B8AF0%211711&amp;authkey=%21ANE0XArW2EfHlGo&amp;width=2840&amp;height=1626" style="max-width: 100%;"></a></p></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
+
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
 <div class="comments" id="comments"></div>
+
 </div>
     <div id="footer">Copyright © <span id="year"></span><a href="https://hanhai-space.github.io/wLog"> HanHai </a>
 <p>
@@ -308,6 +310,8 @@ console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5p
 <script>
 document.getElementById("pathHome").setAttribute("d",IconList["home"]);
 document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
 
 function openComments(){
     cm=document.getElementById("comments");
